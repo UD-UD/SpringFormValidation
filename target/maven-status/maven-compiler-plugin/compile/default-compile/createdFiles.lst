@@ -1,0 +1,10 @@
+com/application/model/Student.class
+com/application/services/StudentService.class
+com/application/services/StudentServiceImpl.class
+com/application/configuration/AppInitializer.class
+com/application/controllers/StudentController.class
+com/application/dao/StudentDaoImpl.class
+com/application/configuration/HibenateConfig.class
+com/application/dao/AbstractDao.class
+com/application/configuration/AppConfig.class
+com/application/dao/StudentDao.class
