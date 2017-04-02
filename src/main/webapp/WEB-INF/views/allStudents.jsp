@@ -20,7 +20,7 @@
     <h2>List of Employees</h2>
     <table>
         <tr>
-            <td>NAME</td><td>Joining Date</td><td>Salary</td><td>SSN</td><td></td>
+            <td>First NAME</td><td>Last Name/td><td>DOB</td><td>EMAIL</td><td></td>
         </tr>
         <c:forEach items="${students}" var="student">
             <tr>
